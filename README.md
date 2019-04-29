@@ -1,6 +1,4 @@
-# vue-calc
-
-> Calculator
+# Calculator
 
 ## Build Setup
 
